@@ -1,0 +1,59 @@
+@media(prefers-color-scheme:dark){
+    body{
+        background: #313131 !important;
+    }
+    .card{
+        background: #313131 !important ;
+    }
+    .card__links{
+        color: #fff !important;
+    }
+    .phone__title{
+        color: #fff !important;
+    }
+    .phone__btn{
+        color: #fff !important;
+    }
+    .price{
+        color: #fff !important;
+    }
+    .ps__title{
+        color: #fff !important;
+    }
+    .xb__title{
+        color: #fff !important;
+    }
+    .xb__text{
+        color: #fff !important;
+    }
+    .phone__title{
+        color: #fff !important;
+    }
+    .vr__title{
+        color: #fff !important;
+    }
+    .vr__info{
+        color: #fff !important;
+    }
+    .iphone__titel{
+        color: #fff !important;
+    }
+    .iphone__price{
+        color: #fff !important;
+    }
+    .information__title{
+        color: #fff !important;
+    }
+    .information__text{
+        color: #fff !important;
+    }
+    .title__main{
+        color: #fff !important;
+    }
+    .main__title{
+        color: #fff !important;
+    }
+    .logotip::before{
+        content: url(../img/logo\ oq.png) !important;
+    }
+}
